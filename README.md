@@ -1,0 +1,1 @@
+This project is part of a data science initiation bootcamp designed to give hands-on experience with key concepts in machine learning and statistics, without relying on high-level libraries like `scikit-learn` for calculations.
